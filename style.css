@@ -1,1 +1,26 @@
-h1 { }
+body {background-color:#fbfbfb; margin:7% 17% 0% 17%;}
+h1 {text-align:left; font-size:21px; font-family:oswald; color:#000000;}
+p {text-align:justify; font-size:16px; font-family:ptsans; color:#1a1a1a;}
+li {text-align:justify; font-size:16px; font-family:ptsans; color:#1a1a1a; margin:5px 0px;}
+figure {text-align:center;}
+figcaption {text-align:center; font-size:13px; font-family:ptsans;}
+
+.header {margin:0px 0px 2px 0px;}
+.logo {text-align:center; margin:0px 10px 38px 10px;}
+.menu {text-align:right; font-size:14px; font-family:helvetica; color:#909090; margin:0px 0px 40px 0px; padding:3px 0px; border-top:2px solid #000000;}
+.alamat {font-family:dejavu; font-size:14px; padding:4px 0px 0px 0px;}
+.arsip {font-size:16px; font-family:ptsans; padding:0px 18px;}
+.ornamen {text-align:center; font-size:14px; font-family:dejavu; margin:40px 0px 40px 0px}
+.form {text-align:center; font-size:14px; font-family:dejavu; margin:0px 0px 2px 0px}
+.tips {overflow:auto; height:170px; border-left:1px solid #808080}
+.tk {margin:50px 0px;}
+.kontak {text-align:center; background:#ececec; padding:15px; border:1px solid #000000;}
+.medsos {font-size:12.5px; font-family:monospace; margin:8px;}
+.footer {text-align:center; font-size:13px; font-family:monospace; color:#1a1a1a; background:#fbfbfb; margin:65px 0px 10px 0px; border-top:2px solid; padding:14px 0px 7px 0px;}
+
+a.judul {text-decoration:none; color:#ffffff; border:0px;}
+a.tautan {text-decoration:none; color:#aa0000;}
+
+@font-face {font-family:oswald; src:url(fonta/Oswald-Regular.ttf);}
+@font-face {font-family:dejavu; src:url(fonta/DejaVuSerif.ttf);}
+@font-face {font-family:ptsans; src:url(fonta/PT_Sans-Web-Regular.ttf);}
