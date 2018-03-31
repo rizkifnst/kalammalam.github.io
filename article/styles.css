@@ -1,0 +1,16 @@
+body {margin:3% 23% 1.5% 23%;}
+h1 {font-size:20px; font-family:libreb; margin:0px 0px 25px 0px; color:#aa0000;}
+h2 {font-size:15px; font-family:libreb; margin:0px 0px 15px 0px;}
+figure {text-align:center;}
+figcaption {text-align:center; font-size:13px; font-family:ptsans;}
+
+.header {font-size:14px; font-family:abrilf; color:#000000; padding:0px 0px 4px 0px; margin:0px 0px 50px 0px; border-bottom:1px solid #cccccc;}
+.content {font-size:16px; font-family:ptsans;}
+.footer {font-size:13px; font-family:libreb; padding:8px 0px 0px 0px; margin:50px 0px 0px 0px; color:#1a1a1a;}
+
+a.black {text-decoration:none; color:#000000;}
+a.red {text-decoration:none; color:#aa0000;}
+
+@font-face {font-family:abrilf; src:url(../fonta/AbrilFatface-Regular.ttf);}
+@font-face {font-family:libreb; src:url(../fonta/LibreBaskerville-Regular.ttf);}
+@font-face {font-family:ptsans; src:url(../fonta/PT_Sans-Web-Regular.ttf);}
