@@ -11,6 +11,6 @@ figcaption {text-align:center; font-size:13px; font-family:ptsans;}
 a.black {text-decoration:none; color:#000000;}
 a.red {text-decoration:none; color:#aa0000;}
 
-@font-face {font-family:abrilf; src:url(../fonta/AbrilFatface-Regular.ttf);}
-@font-face {font-family:libreb; src:url(../fonta/LibreBaskerville-Regular.ttf);}
-@font-face {font-family:ptsans; src:url(../fonta/PT_Sans-Web-Regular.ttf);}
+@font-face {font-family:abrilf; src:url(../font/AbrilFatface-Regular.ttf);}
+@font-face {font-family:libreb; src:url(../font/LibreBaskerville-Regular.ttf);}
+@font-face {font-family:ptsans; src:url(../font/PT_Sans-Web-Regular.ttf);}
