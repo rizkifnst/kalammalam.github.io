@@ -1,14 +1,15 @@
-@media (min-width: 1024px){
+@media (min-width: 1000px){
 body {margin:3% 23% 1.5% 23%;}
 h1 {font-weight: normal; font-size:24px; font-family:abrilf; margin:0px 0px 20px 0px; color:#aa0000;}
 h2 {font-size:18px; font-family:crimst; margin:0px 0px 15px 0px;}
+img {margin:13px 0px;}
 figure {text-align:center;}
 figcaption {text-align:center; font-size:13px; font-family:ptsans;}
 
 .header {font-size:14px; font-family:abrilf; color:#000000; padding:0px 0px 4px 0px; margin:0px 0px 50px 0px; border-bottom:1px solid #cccccc;}
 .content {font-size:19px; font-family:crimst;}
 .quote {font-size:15.5px; font-family:incons; color:#000000; padding:12px 12px; background-color:#f2f2f2; border:1px solid #000000}
-.note {font-size:19px; font-family:crimst; color:#808080; margin:30px 0px 30px 25px; padding:0px 0px 0px 10px; border-left:3px solid #808080}
+.note {font-size:19px; font-family:crimst; color:#808080; margin:30px 0px 30px 20px; padding:0px 0px 0px 10px; border-left:3px solid #808080}
 .footer {font-size:15px; font-family:crimst; color:#1a1a1a; padding:8px 0px 0px 0px; margin:50px 0px 0px 0px;}
 
 a.black {text-decoration:none; color:#000000;}
@@ -19,8 +20,8 @@ a.red {text-decoration:none; color:#aa0000;}
 @font-face {font-family:incons; src:url(../font/Inconsolata-Regular.ttf);}
 }
 
-@media (max-width: 1024px){
-body {margin:3% 2% 1.5% 2%;}
+@media (max-width: 1000px){
+body {margin:3% 4% 3% 4%;}
 h1 {font-weight: normal; font-size:24px; font-family:abrilf; margin:0px 0px 20px 0px; color:#aa0000;}
 h2 {font-size:18px; font-family:crimst; margin:0px 0px 15px 0px;}
 figure {text-align:center;}
@@ -29,7 +30,7 @@ figcaption {text-align:center; font-size:13px; font-family:ptsans;}
 .header {font-size:14px; font-family:abrilf; color:#000000; padding:0px 0px 4px 0px; margin:0px 0px 50px 0px; border-bottom:1px solid #cccccc;}
 .content {font-size:19px; font-family:crimst;}
 .quote {font-size:15.5px; font-family:incons; color:#000000; padding:12px 12px; background-color:#f2f2f2; border:1px solid #000000}
-.note {font-size:19px; font-family:crimst; color:#808080; margin:30px 0px 30px 25px; padding:0px 0px 0px 10px; border-left:3px solid #808080}
+.note {font-size:19px; font-family:crimst; color:#808080; margin:30px 0px 30px 30px; padding:0px 0px 0px 10px; border-left:3px solid #808080}
 .footer {font-size:15px; font-family:crimst; color:#1a1a1a; padding:8px 0px 0px 0px; margin:50px 0px 0px 0px;}
 
 a.black {text-decoration:none; color:#000000;}
