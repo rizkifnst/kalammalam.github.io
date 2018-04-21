@@ -12,6 +12,7 @@ figcaption {text-align:center; font-size:13px; font-family:ptsans;}
 .content {font-size:19px; font-family:crimst;}
 .note {font-size:19px; font-family:crimst; color:#666666; margin:30px 0px 30px 20px; padding:0px 0px 0px 10px; border-left:2px solid #000000}
 .quote {font-size:15.5px; font-family:incons; color:#000000; padding:12px 12px; background-color:#f2f2f2; border:1px solid #000000}
+.hr {font-size:1px; color:#000000; line-height:1px; background-color:grey;}
 .footer {font-size:15px; font-family:crimst; color:#666666; padding:8px 0px 0px 0px; margin:50px 0px 0px 0px;}
 
 a.black {text-decoration:none; color:#000000;}
