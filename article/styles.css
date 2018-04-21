@@ -3,6 +3,7 @@ body {margin:3% 23% 1.5% 23%;}
 h1 {font-weight: normal; font-size:24px; font-family:abrilf; margin:0px 0px 20px 0px; color:#aa0000;}
 h2 {font-size:18px; font-family:crimst; margin:0px 0px 15px 0px;}
 img {margin:13px 0px;}
+hr {display:block; border-style:inset; border-width:1px;}
 table {margin:20px 0px;}
 figure {text-align:center;}
 figcaption {text-align:center; font-size:13px; font-family:ptsans;}
@@ -35,7 +36,7 @@ figcaption {text-align:center; font-size:13px; font-family:ptsans;}
 
 .header {font-size:14px; font-family:abrilf; color:#000000; padding:0px 0px 4px 0px; margin:0px 0px 50px 0px; border-bottom:1px solid #cccccc;}
 .content {font-size:19px; font-family:crimst;}
-.note {font-size:19px; font-family:crimst; color:#666666; margin:50px 0px 50px 40px; padding:0px 0px 0px 10px; border-left:3px solid #000000}
+.note {font-size:19px; font-family:crimst; color:#666666; margin:50px 0px 50px 20px; padding:0px 0px 0px 30px; border-left:3px solid #000000}
 .quote {font-size:15.5px; font-family:incons; color:#000000; padding:12px 12px; background-color:#f2f2f2; border:1px solid #000000}
 .footer {font-size:15px; font-family:crimst; color:#666666; padding:8px 0px 0px 0px; margin:50px 0px 0px 0px;}
 
