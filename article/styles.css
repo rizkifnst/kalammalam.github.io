@@ -34,7 +34,7 @@ table {margin:20px 0px;}
 figure {text-align:center;}
 figcaption {text-align:center; font-size:13px; font-family:ptsans;}
 
-.header {font-size:14px; font-family:abrilf; color:#000000; padding:0px 0px 4px 0px; margin:0px 0px 50px 0px; border-bottom:1px solid #cccccc;}
+.header {font-size:12px; font-family:abrilf; color:#000000; padding:0px 0px 4px 0px; margin:0px 0px 70px 0px; border-bottom:1px solid #cccccc;}
 .content {font-size:19px; font-family:crimst;}
 .note {font-size:19px; font-family:crimst; color:#666666; margin:50px 0px 50px 20px; padding:0px 0px 0px 30px; border-left:3px solid #000000}
 .quote {font-size:15.5px; font-family:incons; color:#000000; padding:12px 12px; background-color:#f2f2f2; border:1px solid #000000}
