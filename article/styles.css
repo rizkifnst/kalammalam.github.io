@@ -39,7 +39,7 @@ figcaption {text-align:center; font-size:13px; font-family:ptsans;}
 .content {font-size:19px; font-family:crimst;}
 .note {font-size:19px; font-family:crimst; color:#666666; margin:50px 0px 50px 20px; padding:0px 0px 0px 30px; border-left:3px solid #000000}
 .quote {font-size:15.5px; font-family:incons; color:#000000; padding:12px 12px; background-color:#f2f2f2; border:1px solid #000000}
-.footer {font-size:15px; font-family:crimst; color:#666666; padding:8px 0px 0px 0px; margin:50px 0px 0px 0px;}
+.footer {font-size:12px; font-family:crimst; color:#666666; padding:8px 0px 0px 0px; margin:50px 0px 0px 0px;}
 
 a.black {text-decoration:none; color:#000000;}
 a.red {text-decoration:none; color:#aa0000;}
