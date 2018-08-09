@@ -23,11 +23,11 @@ a:hover {color:#808080; background-color: transparent; text-decoration: none;}
 
 
 @media (max-width: 1000px){
-body {background-color:#ffffff; margin:3% 4% 1.5% 4%;}
+body {background-color:#ffffff; margin:3% 4% 3% 4%;}
 h1 {font-size:17px; font-family:abrilf; font-weight:normal; margin:0px; color:#ffffff;}
 
 .header {margin:0px 0px 0px 0px; margin:0px 0px 35px 0px; padding:0px 0px 13px 0px; border-bottom:1px solid #cccccc;}
-.logo {font-size:35px; font-family:abrilf; color:#000000;}
+.logo {font-size:24px; font-family:robot; margin:30px 0px 40px 0px; color:#aa0000;}
 .quote {font-size:18px; font-family:crimst;}
 .content {font-size:20px; font-family:crimst;}
 .others {font-size:17px; font-family:crimst; margin:0px 0px 0px 0px; padding:0px 0px 0px 0px; margin:60px 0px 0px 0px;}
